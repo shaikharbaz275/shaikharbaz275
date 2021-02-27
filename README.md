@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaikh Arbaz</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">I'm a software development engineer. I like to work with PHP, NodeJS and Python. I love Linux Kernel based OSs such as Ubuntu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikharbaz275&label=Profile%20views&color=0e75b6&style=flat" alt="shaikharbaz275" /> </p>
 
